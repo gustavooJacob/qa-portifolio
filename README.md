@@ -178,7 +178,8 @@ Projetos planejados para expandir este portfólio:
 
 ## 📞 Contato
 
-- **Email:** vanio.insight@gmail.com
+- **Email:** gustavojacob81@gmail.com
+- **LinkedIn:** [Gustavo Jacob](https://www.linkedin.com/in/gustavojacob81/)
 - **GitHub:** [qa-portifolio](https://github.com/seu-usuario/qa-portifolio)
 
 ---

@@ -237,7 +237,8 @@ Este projeto me permitiu praticar:
 
 **Gustavo Jacob**  
 QA Junior Portfolio  
-Email: vanio.insight@gmail.com
+📧 Email: gustavojacob81@gmail.com  
+🔗 LinkedIn: https://www.linkedin.com/in/gustavojacob81/
 
 ---
 
